@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bet King Agent</string>
+    <string name="app_name">Revenue Collector</string>
     <string name="succeed">Succeed</string>
     <string name="failed">Failed</string>
     <string name="cancel">Cancel</string>

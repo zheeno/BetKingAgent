@@ -17,7 +17,7 @@ android {
     compileSdkVersion 25
 //    buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId 'com.efulltech.betking'
+        applicationId 'com.cluster.ogunCollector'
         minSdkVersion 21
         targetSdkVersion 21
         versionCode 1
